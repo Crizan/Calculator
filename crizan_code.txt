@@ -26,7 +26,7 @@ class object_parameter{
 		test obj1= new test(12,10,25);
 		test obj2=new test(obj1);
 		obj1.display();
-	
+		System.out.println("This is fun");
 	}
 }
 
